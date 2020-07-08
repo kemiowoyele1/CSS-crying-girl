@@ -494,7 +494,7 @@ background: radial-gradient(circle, rgba(228,167,211,1) 0%, rgba(241,224,225,1) 
      border-radius: 100% 0 100% 100%;
     transform: rotate(-45deg);
     box-shadow: inset 1px 1px 5px rgb(110, 95, 89);
-    /* animation: tears 5s infinite ; */
+    animation: tears 5s infinite ;
     animation-delay: 0.3s;
 
 }
@@ -528,7 +528,7 @@ background: radial-gradient(circle, rgba(228,167,211,1) 0%, rgba(241,224,225,1) 
       border-radius: 100% 0 100% 100%;
      transform: rotate(-45deg);
      box-shadow: inset 1px 1px 5px rgb(110, 95, 89);
-     /* animation: tears 5s infinite ; */
+     animation: tears 5s infinite ;
 
  }
  @keyframes tears{
